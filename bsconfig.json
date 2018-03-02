@@ -1,0 +1,8 @@
+{
+  "name": "cmdliner",
+  "sources": ["src", "test"],
+  "entries": [{
+    "backend": "bytecode",
+    "main-module": "Chorus"
+  }]
+}

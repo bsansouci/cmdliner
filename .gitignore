@@ -7,3 +7,5 @@ tmp
 *.byte
 *.native
 cmdliner.install
+lib
+node_modules
