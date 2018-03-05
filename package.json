@@ -1,5 +1,6 @@
 {
   "name": "cmdliner",
+  "version": "1.2.0",
   "devDependencies": {
     "bs-platform": "bsansouci/bsb-native#2.1.1"
   }
