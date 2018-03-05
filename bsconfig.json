@@ -1,5 +1,6 @@
 {
   "name": "cmdliner",
+  "warnings": {"type": "warn", "number": "-44-33-27-6-35-32"},
   "sources": ["src", "test"],
   "entries": [{
     "backend": "bytecode",
